@@ -1,0 +1,17 @@
+.heading{
+
+}
+.addentity{
+  font-family: monospace;
+  font-weight: bold;
+}
+.cancel,.submit{
+  box-shadow: 5px 5px #000;
+  background-color: #ffff;
+}
+.row{
+  padding: 10px;
+}
+.kafnucredit{
+
+}

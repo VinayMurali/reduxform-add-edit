@@ -1,0 +1,14 @@
+.entity-main{
+  border: 2px solid black;
+  height: 25px;
+  padding: 100px;
+}
+.kc-value{
+  text-align: left;
+}
+.start-entity{
+  border:1px solid black;
+}
+.edit-b{
+  float: right;
+}

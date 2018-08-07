@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.full-width {
+	width:100%;
+}
+
+.mx-auto {
+	margin:0 auto;
+}
+
+.mt_20 {
+	margin-top: 20px;
+}
+
+.mb_20 {
+	margin-bottom: 20px;
+}
+
+.d-block {
+	display: block;
+}
+
+.toaster-container {
+  position: fixed;
+  right: 10px;
+  bottom:0;
+}
+
+.toaster {
+  width: 180px;
+  height: 30px;
+  font-size: 14px;
+  border-radius: 2px;
+  color: #FFF;
+  text-align: center;
+  line-height: 30px;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.success {
+  background:rgba(77,173,77,0.8);
+}
+
+.failure {
+  background:rgba(224,84,84,0.7);
+}

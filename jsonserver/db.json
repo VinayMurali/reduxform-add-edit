@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "formData": [
+    {
+      "id": "1",
+      "kafnucredit": "1",
+      "bookingcredit": "8"
+    },
+    {
+      "id": "ju64k2l",
+      "kafnucredit": "1",
+      "bookingcredit": "0"
+    },
+    {
+      "kafnucredit": "99",
+      "bookingcredit": "100",
+      "id": "4HkbES~"
+    },
+    {
+      "kafnucredit": "1",
+      "bookingcredit": "1",
+      "id": "V~bpYBD"
+    },
+    {
+      "kafnucredit": "vinay",
+      "bookingcredit": "vidya",
+      "id": "yNhL4UC"
+    },
+    {
+      "kafnucredit": "1",
+      "bookingcredit": "2",
+      "id": "fh~mE7~"
+    },
+    {
+      "kafnucredit": "2222",
+      "bookingcredit": "3333",
+      "id": "LH7ogXJ"
+    }
+  ],
+  "submit": []
+}
